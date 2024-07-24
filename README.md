@@ -1,12 +1,3 @@
-
-# Cusers
-
-A brief description of what this project does and who it's for
-
-
-## 🚀 About Me
-I'm a full stack developer...
-
 # CUsers
 
 The Cuser Todo App is a simple yet powerful task management application that allows users to create, read, update, and delete tasks. Whether you're managing personal to-dos or collaborating with a team, this app is designed to keep you organized and on track.
